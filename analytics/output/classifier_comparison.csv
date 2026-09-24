@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,auc
+logistic,0.804,0.793,0.667,0.724,0.844
+decision_tree,0.816,0.79,0.71,0.748,0.79
+random_forest,0.81,0.797,0.681,0.734,0.829
